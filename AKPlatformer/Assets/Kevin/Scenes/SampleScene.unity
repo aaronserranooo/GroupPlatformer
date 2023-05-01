@@ -1847,26 +1847,13 @@ GameObject:
   m_Component:
   - component: {fileID: 1808939372}
   - component: {fileID: 1808939371}
-  - component: {fileID: 1808939370}
   m_Layer: 0
   m_Name: Coin
-  m_TagString: Untagged
+  m_TagString: Currency
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1808939370
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1808939369}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 545c5c3c002fe24498c5123f6250d1c8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!212 &1808939371
 SpriteRenderer:
   m_ObjectHideFlags: 0
