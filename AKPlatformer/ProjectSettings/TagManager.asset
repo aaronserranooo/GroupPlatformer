@@ -6,11 +6,13 @@ TagManager:
   tags:
   - Currency
   - Boss
+  - Ground
+  - Spikes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
